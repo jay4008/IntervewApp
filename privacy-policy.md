@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy
+---
+
 # PrepFlow Privacy Policy
 
 **Last updated: May 26, 2026**
