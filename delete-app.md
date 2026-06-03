@@ -33,4 +33,10 @@ Certain information may be retained for a limited period if required for:
 
 If you experience any issues while deleting your account, please contact us through the support options available in the application.
 
+## Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+- Email: jayshah881994@gmail.com
+
 *Last updated: June 2026*
