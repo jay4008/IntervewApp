@@ -49,7 +49,7 @@ PrepFlow is designed for:
 
 # How PrepFlow Helps Users
 
-PrepFlow helps users by:
+PrepFlow (Interview prepartion App) helps users by:
 
 - Providing real interview-style questions
 - Helping users practice consistently
@@ -171,7 +171,7 @@ Any updates will be posted on this page along with the updated revision date.
 
 If you have questions regarding this Privacy Policy, you may contact us at:
 
-support@prepflowapp.com
+jayshah881994@gmail.com
 
 ---
 
